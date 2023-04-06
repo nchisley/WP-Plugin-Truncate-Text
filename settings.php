@@ -14,7 +14,7 @@ function truncate_text_settings_page() {
   <div class="wrap">
     <h1 style="display:none;"></h1>
     <div class="head-wrap" style="width:100%;text-align:left;padding-top:20px;">
-      <img src="/wp-content/plugins/truncate-text/admin/images/settings-head-02.png" alt="Truncate Text by WebPro" style="width:300px;" />
+      <img src="<?php echo plugins_url( 'admin/images/settings-head-02.png', __FILE__ ); ?>" alt="Truncate Text by WebPro" style="width:300px;" />
     </div>
     <h1><b>Shortcode Usage</b></h1>
     <ul style="list-style-type:square;padding-left:20px;">
