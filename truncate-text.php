@@ -16,7 +16,7 @@
  * Plugin Name:       Truncate Text
  * Plugin URI:        https://natechisley.com/wordpress-plugins/
  * Description:       Truncate Text is a simple WordPress plugin that allows you to truncate the text of your posts and pages. This plugin can be used to create short versions of content, like usernames, crypto wallet addresses, etc.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Author:            Nate Chisley
  * Author URI:        https://natechisley.com/webpro
  * License:           GPL-2.0+

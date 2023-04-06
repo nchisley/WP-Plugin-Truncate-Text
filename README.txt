@@ -3,8 +3,8 @@ Contributors: nchisley
 Donate link: https://natechisley.com/donate
 Tags: text truncation, shortcodes, content formatting, ellipsis
 Requires at least: 5.0
-Tested up to: 6.1
-Stable tag: 1.0.0
+Tested up to: 6.2
+Stable tag: 1.1.0
 License: GPLv2 or later (or compatible)
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,8 @@ We welcome contributions to this plugin. If you would like to contribute, please
 2-Truncate Shortcode Example
 
 ==Changelog==
+1.1.0
+-Compatable with WordPress v6.2
 1.0.0
 -Initial release of the Truncate Text plugin.
 -Includes the [truncate-text] shortcode and the [truncate-shortcode] shortcode.
