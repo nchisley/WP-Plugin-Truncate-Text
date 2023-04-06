@@ -1,5 +1,5 @@
 ==Truncate Text WordPress Plugin==
-Contributors: n8tr0nc
+Contributors: nchisley
 Donate link: https://natechisley.com/donate
 Tags: text truncation, shortcodes, content formatting, ellipsis
 Requires at least: 5.0
