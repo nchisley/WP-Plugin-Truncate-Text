@@ -9,7 +9,7 @@ License: GPLv2 or later (or compatible)
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 ==Description==
-Truncate Text is a simple WordPress plugin that allows you to truncate the text of your posts and pages. This plugin can be used to create short versions of content, like usernames, crypto wallet addresses, etc.
+Truncate Text is a very simple WordPress plugin that allows you to truncate the text of your posts and pages. This plugin can be used to create short versions of content, like usernames, crypto wallet addresses, etc.
 
 ==Installation==
 -Log in to your WordPress site as an administrator.
